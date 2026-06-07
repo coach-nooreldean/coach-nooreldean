@@ -1,79 +1,128 @@
-<!-- Header -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20my%20Universe!%20🚀&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Nooreldean%20-%20Software%20Developer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing SVG Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Back-End+Developer;Linux+Enthusiast;Student+%26+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Workspace" width="40%" style="border-radius: 15px;" />
-</div>
-
-<br>
-
-<!-- Two-Column Layout for About & Stats -->
-<table align="center">
+<!-- About Me & Profile Graphic Side-by-Side -->
+<table align="center" width="100%">
   <tr>
-    <td width="55%" align="left" valign="top">
+    <td width="60%" valign="top" align="left">
       <h2>👨‍💻 About Me</h2>
-      <p>🌱 Currently focusing on mastering <b>C++</b> and System Programming.</p>
-      <p>💻 Passionate about <b>Back-End Architecture</b> and writing clean, efficient code.</p>
-      <p>🐧 A heavy <b>Linux</b> user who loves terminal workflows.</p>
-      <p>🎯 Goal: Building scalable software and contributing to open-source.</p>
-      <br>
-      <h2>📫 Let's Connect</h2>
-      <a href="https://t.me/Nooreldean216"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/نورالدين-احمد-0a77b41a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://github.com/coach-nooreldean"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://instagram.com/n00reldean_a7med"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <p>👋 Hello! I'm <b>Nooreldean</b>, a passionate software developer specializing in high-performance application development and low-level systems. I thrive on solving complex puzzles and building efficient backends.</p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Mastering <b>C++</b>, data structures, and advanced system architecture.</li>
+        <li>🐧 <b>Environment:</b> Linux is my playground; I write automation scripts, configure shell workflows, and optimize terminal performance.</li>
+        <li>💼 <b>Interests:</b> Distributed systems, memory management, and clean APIs.</li>
+        <li>🌱 <b>Learning:</b> Modern backend engineering patterns and server-side scalability.</li>
+      </ul>
     </td>
-    <td width="45%" align="center" valign="top">
-      <h2>🛠️ Tech Stack</h2>
-      <h4 align="left">Languages & Technologies:</h4>
-      <div align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,ts,html,css&perline=4" />
-        </a>
-      </div>
-      <br>
-      <h4 align="left">Systems, DBs & Tools:</h4>
-      <div align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,git,github,mysql&perline=4" />
-        </a>
-      </div>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Coding Workspace" width="95%" style="border-radius: 12px; border: 2px solid #00FF7F;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+<!-- GitHub Trophies Cabinet -->
+<h3 align="center">🏆 GitHub Trophy Cabinet</h3>
 <div align="center">
-  <img src="https://github-readme-stats-one-beta-27.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true" height="192px" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" height="192px" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-one-beta-27.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=coach-nooreldean&theme=matrix&no-background=true&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<!-- This creates a cool snake animation that eats your contributions! -->
+<!-- Categorized Tech Stack Toolbox -->
+<h3 align="center">🛠️ My Tech Toolbox</h3>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <strong>🖥️ Programming Languages</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,ts&theme=dark" alt="Languages" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <strong>🐧 Systems & OS</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode&theme=dark" alt="Systems" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <br>
+      <strong>🗄️ Databases & Web Core</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark" alt="Databases and Web" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <br>
+      <strong>⚙️ Dev Tools & Control</strong><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Dev Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Aligned GitHub Stats Dashboard -->
+<h3 align="center">📊 Developer Analytics Dashboard</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-one-beta-27.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true" height="195px" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" height="195px" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br>
+      <img src="https://github-readme-stats-one-beta-27.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true" width="55%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Social Connections Row -->
+<h3 align="center">📬 Let's Connect & Collaborate</h3>
+<div align="center">
+  <a href="https://t.me/Nooreldean216" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/%D9%86%D9%85%D9%85%D9%88%D8%B1%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D8%AD%D9%85%D8%AF-0a77b41a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/n00reldean_a7med" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/coach-nooreldean" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<!-- Contribution Snake Animation -->
+<h3 align="center">🐍 The Contribution Snake</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
 </div>
 
@@ -83,7 +132,19 @@
   <img src="https://komarev.com/ghpvc/?username=coach-nooreldean&label=Profile%20views&color=00FF7F&style=flat" alt="Profile Views" />
 </div>
 
+<br>
+
+<!-- Footer Quote & Wave -->
 <div align="center">
-  <!-- Footer Wave -->
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <i>"Talk is cheap. Show me the code."</i> — <b>Linus Torvalds</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
 </div>
