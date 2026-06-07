@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/cbb5270464a937d6443d0666b084561c76b66e65513c56b06e7b2e54c173cc23/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f36392f34662f63653639346635363036333664666663663432656366343064346632663936322e676966" alt="Workspace" width="40%"/><br> 
+  <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Workspace" width="40%"/><br> 
 </div>
 
 ---
