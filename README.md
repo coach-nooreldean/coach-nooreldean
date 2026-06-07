@@ -10,12 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=coach-nooreldean&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coach-nooreldean&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+
 
 <div align="center">
   <!-- Dynamic Typing Effect -->
@@ -39,7 +34,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats"/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coach-nooreldean&theme=radical&hide_border=true&background=0D1117" height="192px" alt="GitHub Streak"/>
 </div>
@@ -48,7 +43,7 @@
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 ---
