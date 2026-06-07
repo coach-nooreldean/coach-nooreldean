@@ -47,7 +47,7 @@
     <td width="50%" valign="top" align="left">
       <strong>🖥️ Programming Languages</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,c,bash,python,ts&theme=dark" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,ts,bash&theme=dark" alt="Languages" />
       </a>
     </td>
     <td width="50%" valign="top" align="left">
@@ -69,7 +69,7 @@
       <br>
       <strong>⚙️ Dev Tools & Control</strong><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Dev Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev Tools" />
       </a>
     </td>
   </tr>
