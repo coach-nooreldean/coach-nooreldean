@@ -42,38 +42,42 @@
 
 <!-- Categorized Tech Stack Toolbox -->
 <h3 align="center">🛠️ My Tech Toolbox</h3>
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <strong>🖥️ Programming Languages</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,ts,bash&theme=dark" alt="Languages" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <strong>🐧 Systems & OS</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode&theme=dark" alt="Systems" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <br>
-      <strong>🗄️ Databases & Web Core</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark" alt="Databases and Web" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <br>
-      <strong>⚙️ Dev Tools & Control</strong><br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Dev Tools" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h4>💻 Languages</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,dart,ts,bash&theme=dark" alt="Languages" />
+  </a>
+  <br><br>
+  
+  <h4>🎨 Frontend & Mobile</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css,tailwind&theme=dark" alt="Frontend" />
+  </a>
+  <br><br>
+  
+  <h4>🗄️ Databases</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark" alt="Databases" />
+  </a>
+  <br><br>
+  
+  <h4>🐧 Operating Systems</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint&theme=dark" alt="OS" />
+  </a>
+  <br><br>
+  
+  <h4>⚙️ Developer Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,md&theme=dark" alt="Tools" />
+  </a>
+  <br><br>
+  
+  <h4>☁️ Cloud & Hosting</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,cloudflare,vercel&theme=dark" alt="Cloud" />
+  </a>
+</div>
 
 ---
 
