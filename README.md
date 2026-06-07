@@ -32,9 +32,10 @@
 ---
 
 <!-- GitHub Trophies Cabinet -->
-<h3 align="center">🏆 GitHub Trophy Cabinet</h3>
+<!-- GitHub Activity Graph -->
+<h3 align="center">📈 GitHub Contribution Activity</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coach-nooreldean&theme=matrix&no-background=true&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coach-nooreldean&bg_color=0D1117&color=c9d1d9&line=00FF7F&point=00E5FF&area=true&area_color=0D1117&title_color=00FF7F&hide_border=true&custom_title=Weekly%20Contribution%20Activity" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
