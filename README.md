@@ -95,7 +95,7 @@
   <tr>
     <td align="center" colspan="2">
       <br>
-      <img src="https://github-readme-stats-one-beta-27.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2" width="55%" alt="Top Languages"/>
+      <img src="https://github-readme-stats-one-beta-27.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="55%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
