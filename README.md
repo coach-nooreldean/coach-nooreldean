@@ -83,29 +83,6 @@
 
 ---
 
-<!-- Featured Projects Showcase -->
-<h3 align="center">🚀 Featured Projects</h3>
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <b>[Project Name 1]</b><br>
-      <i>A brief description of this awesome project.</i><br>
-      <br>
-      <img src="https://skillicons.dev/icons?i=cpp,linux&theme=dark" height="30px" /><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=00FF7F" /></a>
-    </td>
-    <td width="50%" align="center">
-      <b>[Project Name 2]</b><br>
-      <i>A brief description of another awesome project.</i><br>
-      <br>
-      <img src="https://skillicons.dev/icons?i=ts,react,tailwind&theme=dark" height="30px" /><br><br>
-      <a href="#"><img src="https://img.shields.io/badge/Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- Aligned GitHub Stats Dashboard -->
 <h3 align="center">📊 Developer Analytics Dashboard</h3>
 <table align="center" width="100%">
@@ -118,14 +95,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <br>
-      <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="100%" alt="Top Languages"/>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <!-- Change 'nooreldean' in the URL to your actual LeetCode username -->
-      <img src="https://leetcard.jacoblin.cool/nooreldean?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats"/>
+      <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="55%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
