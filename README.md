@@ -32,6 +32,13 @@
 ---
 
 <!-- GitHub Trophies Cabinet -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coach-nooreldean&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br>
+
 <!-- GitHub Activity Graph -->
 <h3 align="center">📈 GitHub Contribution Activity</h3>
 <div align="center">
@@ -89,7 +96,7 @@
       <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=2" height="195px" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=2" height="195px" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=2" height="195px" alt="GitHub Streak"/>
     </td>
   </tr>
   <tr>
@@ -99,6 +106,14 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- WakaTime Stats -->
+<h3 align="center">⏱️ Weekly Coding Activity (WakaTime)</h3>
+<div align="center">
+  <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/wakatime?username=coach-nooreldean&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&layout=compact" width="80%" alt="WakaTime Stats" />
+</div>
 
 ---
 
