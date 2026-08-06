@@ -32,12 +32,7 @@
 ---
 
 <!-- GitHub Trophies Cabinet -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coach-nooreldean&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
-<br>
+<!-- (Temporarily disabled due to upstream server issues) -->
 
 <!-- GitHub Activity Graph -->
 <h3 align="center">📈 GitHub Contribution Activity</h3>
@@ -108,12 +103,6 @@
 </table>
 
 <br>
-
-<!-- WakaTime Stats -->
-<h3 align="center">⏱️ Weekly Coding Activity (WakaTime)</h3>
-<div align="center">
-  <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/wakatime?username=coach-nooreldean&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&layout=compact" width="80%" alt="WakaTime Stats" />
-</div>
 
 ---
 
