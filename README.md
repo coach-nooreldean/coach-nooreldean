@@ -148,7 +148,7 @@
       </td>
       <td align="center" width="50%" style="border: none;">
         <br>
-        <img src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime-card.svg?v=3" width="100%" alt="Weekly Coding Activity (WakaTime)"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/wakatime?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&langs_count=8" width="100%" alt="Weekly Coding Activity (WakaTime)"/>
       </td>
     </tr>
   </table>
