@@ -87,24 +87,6 @@
 ---
 
 <!-- ========================================================================= -->
-<!--                   ⏳ WAKATIME DEVELOPMENT METRICS                         -->
-<!-- ========================================================================= -->
-<h3 align="center">⏳ Development Velocity & Coding Metrics (WakaTime)</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-161B22?style=flat-square&logo=wakatime&logoColor=00FF7F&labelColor=003B26" alt="WakaTime Active" />&nbsp;
-  <img src="https://img.shields.io/badge/Auto--Updated-Every%2024%20Hours-161B22?style=flat-square&logo=githubactions&logoColor=00E5FF&labelColor=00454E" alt="GitHub Actions" />&nbsp;
-  <img src="https://img.shields.io/badge/Self--Hosted-SVG%20Dashboard-161B22?style=flat-square&logo=visualstudiocode&logoColor=00FF7F&labelColor=003B26" alt="Self-Hosted" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime-card.svg" width="100%" alt="WakaTime Development Metrics Card" />
-</div>
-
-<br>
-
----
-
-<!-- ========================================================================= -->
 <!--                       🛠️ TECH TOOLBOX & ECOSYSTEM                         -->
 <!-- ========================================================================= -->
 <h3 align="center">🛠️ Tech Toolbox & Ecosystem</h3>
@@ -153,16 +135,20 @@
   <table align="center" width="100%" style="border: none;">
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=2" height="195px" alt="GitHub Stats"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=3" height="195px" alt="GitHub Stats"/>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=2" height="195px" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=3" height="195px" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2" style="border: none;">
+      <td align="center" width="50%" style="border: none;">
         <br>
-        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="58%" alt="Top Languages"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=3&langs_count=8" width="100%" alt="Top Languages"/>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <br>
+        <img src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime-card.svg?v=3" width="100%" alt="Weekly Coding Activity (WakaTime)"/>
       </td>
     </tr>
   </table>
