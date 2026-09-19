@@ -69,7 +69,20 @@
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
-      <h4>⚙️ <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" style="color: #00E5FF; text-decoration: none;">NooreldeanOS & Dotfiles</a></h4>
+      <h4>💬 <a href="https://github.com/coach-nooreldean/whatsapp-desktop" style="color: #00E5FF; text-decoration: none;">WhatsApp Desktop Linux</a></h4>
+      <p style="color: #c9d1d9; font-size: 14px;">
+        Unofficial WhatsApp desktop client engineered for Linux with native system integration and font fixes.
+      </p>
+      <ul style="color: #8b949e; font-size: 13px;">
+        <li>🐧 <b>Linux Integration:</b> System tray minimization, background service, and desktop notifications.</li>
+        <li>🔤 <b>Arabic Font Engine:</b> Proper RTL glyph rendering and clean typography without broken text.</li>
+        <li>🚀 <b>Performance:</b> Lightweight container optimized for low memory overhead and rapid boot.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
+      <h4>⚙️ <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" style="color: #00FF7F; text-decoration: none;">NooreldeanOS & Dotfiles</a></h4>
       <p style="color: #c9d1d9; font-size: 14px;">
         A customized, hyper-optimized Arch Linux developer workstation engineered for peak productivity.
       </p>
@@ -79,8 +92,59 @@
         <li>🔒 <b>Security & Performance:</b> Custom kernel optimizations and minimal memory footprint.</li>
       </ul>
     </td>
+    <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
+      <h4>📊 <a href="https://github.com/coach-nooreldean/github-stats-extended" style="color: #00E5FF; text-decoration: none;">GitHub Stats Extended Platform</a></h4>
+      <p style="color: #c9d1d9; font-size: 14px;">
+        Self-hosted high-throughput serverless platform providing dynamic SVG analytics and telemetry cards.
+      </p>
+      <ul style="color: #8b949e; font-size: 13px;">
+        <li>☁️ <b>Serverless Cloud:</b> Deployed on Vercel with real-time GitHub & WakaTime API bridging.</li>
+        <li>⚡ <b>Optimized Architecture:</b> TurboRepo monorepo with TypeScript core and edge caching.</li>
+        <li>🎨 <b>Neon Cyberpunk:</b> Bespoke SVG rendering with zero client runtime and WCAG AAA contrast.</li>
+      </ul>
+    </td>
   </tr>
 </table>
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                   📌 PINNED & OPEN SOURCE REPOSITORIES                    -->
+<!-- ========================================================================= -->
+<h3 align="center">📌 Pinned & Open Source Repositories</h3>
+
+<div align="center">
+  <table align="center" width="100%" style="border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/coach-nooreldean/whatsapp-desktop" target="_blank">
+          <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/pin/?username=coach-nooreldean&repo=whatsapp-desktop&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120" width="100%" alt="whatsapp-desktop"/>
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" target="_blank">
+          <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/pin/?username=coach-nooreldean&repo=NooreldeanOS-Dotfiles&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120" width="100%" alt="NooreldeanOS-Dotfiles"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <br>
+        <a href="https://github.com/coach-nooreldean/github-stats-extended" target="_blank">
+          <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/pin/?username=coach-nooreldean&repo=github-stats-extended&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120" width="100%" alt="github-stats-extended"/>
+        </a>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <br>
+        <a href="https://github.com/coach-nooreldean/arkan" target="_blank">
+          <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/pin/?username=coach-nooreldean&repo=arkan&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120" width="100%" alt="arkan"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -188,6 +252,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/coach-nooreldean" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ug_31296122@edu.tanta.edu.eg" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
