@@ -94,13 +94,13 @@
 <div align="center">
   <p><b>💻 Languages & Core Runtime</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,ts,js,nodejs,cpp,py,bash&theme=dark" alt="Languages & Runtime" />
+    <img src="https://skillicons.dev/icons?i=dart,kotlin,ts,js,nodejs,cpp,py&theme=dark" alt="Languages & Runtime" />
   </a>
   <br><br>
 
   <p><b>📱 Cross-Platform & Frontend Ecosystem</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vite,tailwind,electron,html&theme=dark" alt="Frontend & Mobile Ecosystem" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vite,tailwind,figma,electron&theme=dark" alt="Frontend & Mobile Ecosystem" />
   </a>
   <br><br>
 
@@ -110,15 +110,15 @@
   </a>
   <br><br>
 
-  <p><b>🐧 Operating Systems & Kernel Workspaces</b></p>
+  <p><b>🐧 Operating Systems & Engineering Workspaces</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,debian,ubuntu,neovim,vim,powershell&theme=dark" alt="Operating Systems & Workspaces" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,debian,ubuntu,neovim,obsidian,bash&theme=dark" alt="Operating Systems & Workspaces" />
   </a>
   <br><br>
 
-  <p><b>⚙️ Developer Tooling & DevOps</b></p>
+  <p><b>⚙️ Developer Tooling & Cloud DevOps</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,githubactions,npm,docker&theme=dark" alt="Tools & DevOps" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,postman,docker,vercel&theme=dark" alt="Tools & DevOps" />
   </a>
 </div>
 
