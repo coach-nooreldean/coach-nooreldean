@@ -144,11 +144,11 @@
     <tr>
       <td align="center" width="50%" valign="top" style="border: none;">
         <br>
-        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&langs_count=10&v=4" width="100%" alt="Top Languages"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&langs_count=26&v=5" width="100%" alt="Top Languages"/>
       </td>
       <td align="center" width="50%" valign="top" style="border: none;">
         <br>
-        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/wakatime?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&langs_count=10&v=4" width="100%" alt="Weekly Coding Activity (WakaTime)"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/wakatime?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&langs_count=26&v=5" width="100%" alt="Weekly Coding Activity (WakaTime)"/>
       </td>
     </tr>
   </table>
