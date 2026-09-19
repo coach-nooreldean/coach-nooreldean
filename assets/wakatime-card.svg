@@ -85,5 +85,5 @@
   <!-- Card Footer -->
   <line x1="25" y1="210" x2="775" y2="210" stroke="#21262D" stroke-width="1" />
   <text x="25" y="222" class="footer-text">🔄 Auto-generated &amp; Self-Hosted via GitHub Actions</text>
-  <text x="775" y="222" class="footer-text" text-anchor="end">Synced: 19/09/2026 21:01 UTC</text>
+  <text x="775" y="222" class="footer-text" text-anchor="end">Synced: 19/09/2026 21:03 UTC</text>
 </svg>
