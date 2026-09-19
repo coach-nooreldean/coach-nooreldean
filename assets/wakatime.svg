@@ -1,0 +1,100 @@
+<svg width="800" height="230" viewBox="0 0 800 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 16px; fill: #00FF7F; letter-spacing: 0.5px; }
+    .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; font-weight: 500; }
+    .stat-value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; fill: #00E5FF; font-weight: 700; }
+    .stat-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #c9d1d9; font-weight: 600; }
+    .footer-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; }
+    .pulse { animation: pulse-anim 2s infinite ease-in-out; }
+    @keyframes pulse-anim {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(1.1); }
+    }
+  </style>
+
+  <!-- Background Card with Cyber Neon Border -->
+  <rect x="1" y="1" width="798" height="228" rx="12" fill="#0D1117" stroke="#30363d" stroke-width="1.2" />
+  <rect x="1" y="1" width="798" height="228" rx="12" fill="url(#neon-glow)" fill-opacity="0.03" />
+
+  <defs>
+    <linearGradient id="neon-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF7F" />
+      <stop offset="100%" stop-color="#00E5FF" />
+    </linearGradient>
+    <linearGradient id="bar-track" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#21262D" />
+    </linearGradient>
+  </defs>
+
+  <!-- Header Section -->
+  <g transform="translate(25, 32)">
+    <!-- WakaTime Icon -->
+    <path d="M0 4C0 1.79 1.79 0 4 0H14C16.21 0 18 1.79 18 4V14C18 16.21 16.21 18 14 18H4C1.79 18 0 16.21 0 14V4Z" fill="#00FF7F" fill-opacity="0.15" />
+    <path d="M5 9L8 12L13 6" stroke="#00FF7F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <text x="28" y="14" class="header">⚡ WAKATIME &amp; CODING ACTIVITY VELOCITY</text>
+    <circle cx="365" cy="9" r="4" fill="#00FF7F" class="pulse" />
+  </g>
+
+  <!-- Left Column: Metrics Box -->
+  <g transform="translate(25, 65)">
+    <!-- Metric 1: Tracked Time -->
+    <rect x="0" y="0" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
+    <text x="14" y="17" class="stat-label">⏱️ Total Tracked Coding Time</text>
+    <text x="14" y="34" class="stat-value">48 mins</text>
+    <text x="350" y="26" class="stat-label" text-anchor="end">Live Sync</text>
+
+    <!-- Metric 2: Primary IDE & OS -->
+    <rect x="0" y="48" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
+    <text x="14" y="65" class="stat-label">💻 Primary Workstation &amp; Environment</text>
+    <text x="14" y="82" class="stat-sub">Arch Linux | Antigravity IDE & Android Studio</text>
+
+    <!-- Metric 3: Architectural Focus -->
+    <rect x="0" y="96" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
+    <text x="14" y="113" class="stat-label">🎯 Active Engineering Domain</text>
+    <text x="14" y="130" class="stat-value" fill="#00FF7F">Offline-First Super App &amp; Clean Architecture</text>
+  </g>
+
+  <!-- Right Column: Stack Breakdown Header -->
+  <text x="420" y="55" class="stat-label" font-weight="600">📊 Weekly Language &amp; Architecture Distribution</text>
+
+  <!-- Bar Track Background -->
+  <rect x="420" y="70" width="340" height="10" rx="3" fill="url(#bar-track)" />
+
+  <!-- Dynamic Progress Bar Segments -->
+  <rect x="420" y="70" width="178" height="10" rx="3" fill="#00FF7F" />
+<rect x="600" y="70" width="74" height="10" rx="3" fill="#F34B7D" />
+<rect x="676" y="70" width="49" height="10" rx="3" fill="#3178C6" />
+<rect x="727" y="70" width="38" height="10" rx="3" fill="#00E5FF" />
+
+  <!-- Legend Items -->
+  
+        <g transform="translate(420, 105)">
+          <circle cx="5" cy="5" r="4" fill="#00FF7F" />
+          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">Dart / Flutter</text>
+          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">52.4% (Clean Architecture & BLoC)</text>
+        </g>
+
+        <g transform="translate(420, 129)">
+          <circle cx="5" cy="5" r="4" fill="#F34B7D" />
+          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">C++</text>
+          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">21.8% (Systems & Core Algorithms)</text>
+        </g>
+
+        <g transform="translate(420, 153)">
+          <circle cx="5" cy="5" r="4" fill="#3178C6" />
+          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">TypeScript</text>
+          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">14.5% (React & Fullstack)</text>
+        </g>
+
+        <g transform="translate(420, 177)">
+          <circle cx="5" cy="5" r="4" fill="#00E5FF" />
+          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">Bash / Shell</text>
+          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">11.3% (Linux Workstation Tools)</text>
+        </g>
+
+  <!-- Card Footer -->
+  <line x1="25" y1="210" x2="775" y2="210" stroke="#21262D" stroke-width="1" />
+  <text x="25" y="222" class="footer-text">🔄 Auto-generated &amp; Self-Hosted via GitHub Actions</text>
+  <text x="775" y="222" class="footer-text" text-anchor="end">Synced: 19/09/2026 20:39 UTC</text>
+</svg>
