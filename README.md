@@ -94,25 +94,25 @@
 <div align="center">
   <p><b>💻 Languages & Core Runtime</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,ts,js,cpp,python,bash&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=dart,ts,js,nodejs,cpp,py,bash&theme=dark" alt="Languages & Runtime" />
   </a>
   <br><br>
 
   <p><b>📱 Cross-Platform & Frontend Ecosystem</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend & Mobile" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vite,tailwind,electron,html&theme=dark" alt="Frontend & Mobile Ecosystem" />
   </a>
   <br><br>
 
   <p><b>🔄 Databases, Cloud & Offline Storage</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase,redis&theme=dark" alt="Databases & Cloud" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase,redis,graphql,prisma&theme=dark" alt="Databases & Cloud" />
   </a>
   <br><br>
 
   <p><b>🐧 Operating Systems & Kernel Workspaces</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,debian,ubuntu&theme=dark" alt="Operating Systems" />
+    <img src="https://skillicons.dev/icons?i=arch,linux,debian,ubuntu,neovim,vim,powershell&theme=dark" alt="Operating Systems & Workspaces" />
   </a>
   <br><br>
 
