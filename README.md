@@ -188,9 +188,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/coach-nooreldean" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ug_31296122@edu.tanta.edu.eg" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
