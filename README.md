@@ -97,7 +97,7 @@
 </p>
 
 <div align="center">
-  <img src=\"https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime-card.svg\" width=\"100%\" alt=\"WakaTime Development Metrics Card\" />
+  <img src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime-card.svg" width="100%" alt="WakaTime Development Metrics Card" />
 </div>
 
 <br>
