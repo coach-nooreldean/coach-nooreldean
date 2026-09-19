@@ -89,14 +89,15 @@
 <!-- ========================================================================= -->
 <!--                   ⏳ WAKATIME DEVELOPMENT METRICS                         -->
 <!-- ========================================================================= -->
-<h3 align="center">⏳ Weekly Development Metrics (WakaTime)</h3>
+<h3 align="center">⏳ Development Velocity & Coding Metrics (WakaTime)</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-00FF7F?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime Active" />&nbsp;
-  <img src="https://img.shields.io/badge/Auto--Updated-Every%2024%20Hours-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-161B22?style=flat-square&logo=wakatime&logoColor=00FF7F&labelColor=003B26" alt="WakaTime Active" />&nbsp;
+  <img src="https://img.shields.io/badge/Auto--Updated-Every%2024%20Hours-161B22?style=flat-square&logo=githubactions&logoColor=00E5FF&labelColor=00454E" alt="GitHub Actions" />&nbsp;
+  <img src="https://img.shields.io/badge/Self--Hosted-SVG%20Dashboard-161B22?style=flat-square&logo=visualstudiocode&logoColor=00FF7F&labelColor=003B26" alt="Self-Hosted" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/main/assets/wakatime.svg" width="100%" alt="WakaTime Development Metrics Card" />
+  <img src="assets/wakatime.svg" width="100%" alt="WakaTime Development Metrics Card" />
 </div>
 
 <br>

@@ -6,11 +6,12 @@ import base64
 import datetime
 import urllib.request
 import urllib.error
+import xml.etree.ElementTree as ET
+from xml.sax.saxutils import escape
 
 def get_api_key():
     key = os.environ.get("WAKATIME_API_KEY")
     if not key:
-        # Try local config
         cfg_path = os.path.expanduser("~/.wakatime.cfg")
         if os.path.exists(cfg_path):
             import configparser
@@ -52,16 +53,14 @@ def main():
     all_time_data = fetch_waka("all_time_since_today", api_key) or {}
     all_time_sec = all_time_data.get("data", {}).get("total_seconds", 0)
     all_time_str = all_time_data.get("data", {}).get("text", "")
-    daily_avg_sec = all_time_data.get("data", {}).get("daily_average", 0)
 
     # 2. Fetch Weekly Stats
     weekly_data = fetch_waka("stats/last_7_days", api_key) or {}
     w_data = weekly_data.get("data", {})
     languages = w_data.get("languages", [])
     editors = w_data.get("editors", [])
-    weekly_total = w_data.get("total_seconds", 0)
 
-    # 3. Fetch Today Durations if fresh
+    # 3. Fetch Today Durations
     today_str = datetime.date.today().isoformat()
     today_data = fetch_waka(f"durations?date={today_str}", api_key) or {}
     today_durations = today_data.get("data", [])
@@ -73,13 +72,16 @@ def main():
         else:
             all_time_str = "Active Tracking"
 
-    # Default languages fallback if account just started today
+    all_time_display = escape(all_time_str)
+
     LANG_COLORS = {
         "Dart": "#00B4AB",
         "Flutter": "#02569B",
+        "Dart / Flutter": "#00FF7F",
         "TypeScript": "#3178C6",
         "C++": "#F34B7D",
         "Python": "#3572A5",
+        "Bash / Shell": "#00E5FF",
         "Bash": "#89E051",
         "Shell": "#89E051",
         "HTML": "#E34F26",
@@ -93,12 +95,11 @@ def main():
     if languages:
         for l in languages[:5]:
             display_langs.append({
-                "name": l.get("name", "Other"),
+                "name": escape(l.get("name", "Other")),
                 "percent": l.get("percent", 0),
-                "text": l.get("text", "")
+                "text": escape(l.get("text", ""))
             })
     else:
-        # Balanced representation reflecting user tech stack while accumulating
         display_langs = [
             {"name": "Dart / Flutter", "percent": 52.4, "text": "Clean Architecture & BLoC"},
             {"name": "C++", "percent": 21.8, "text": "Systems & Core Algorithms"},
@@ -106,14 +107,13 @@ def main():
             {"name": "Bash / Shell", "percent": 11.3, "text": "Linux Workstation Tools"}
         ]
 
-    # Editor info
     editor_name = "Antigravity IDE & Android Studio"
     if editors and len(editors) > 0:
         editor_name = editors[0].get("name", editor_name)
+    editor_display = escape(editor_name)
 
     now_utc = datetime.datetime.now(datetime.timezone.utc).strftime("%d/%m/%Y %H:%M UTC")
 
-    # Generate Progress bar segments
     bar_width = 340
     current_x = 0
     svg_bars = []
@@ -125,17 +125,16 @@ def main():
         pct = lang["percent"]
         seg_w = max(4, int((pct / 100.0) * bar_width))
         
-        # SVG bar segment
         svg_bars.append(f'<rect x="{420 + current_x}" y="70" width="{seg_w}" height="10" rx="3" fill="{color}" />')
         current_x += seg_w + 2
 
-        # Legend items on right side
         ly = y_offset + 30 + (i * 24)
-        legend_items.append(f'''
-        <g transform="translate(420, {ly})">
+        name_esc = escape(lang["name"])
+        desc_esc = escape(lang["text"])
+        legend_items.append(f'''        <g transform="translate(420, {ly})">
           <circle cx="5" cy="5" r="4" fill="{color}" />
-          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">{lang["name"]}</text>
-          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">{pct:.1f}% ({lang["text"]})</text>
+          <text x="16" y="9" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600">{name_esc}</text>
+          <text x="340" y="9" fill="#8b949e" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" text-anchor="end">{pct:.1f}% ({desc_esc})</text>
         </g>''')
 
     bars_markup = "\n".join(svg_bars)
@@ -172,7 +171,6 @@ def main():
 
   <!-- Header Section -->
   <g transform="translate(25, 32)">
-    <!-- WakaTime Icon -->
     <path d="M0 4C0 1.79 1.79 0 4 0H14C16.21 0 18 1.79 18 4V14C18 16.21 16.21 18 14 18H4C1.79 18 0 16.21 0 14V4Z" fill="#00FF7F" fill-opacity="0.15" />
     <path d="M5 9L8 12L13 6" stroke="#00FF7F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     <text x="28" y="14" class="header">⚡ WAKATIME &amp; CODING ACTIVITY VELOCITY</text>
@@ -184,18 +182,18 @@ def main():
     <!-- Metric 1: Tracked Time -->
     <rect x="0" y="0" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
     <text x="14" y="17" class="stat-label">⏱️ Total Tracked Coding Time</text>
-    <text x="14" y="34" class="stat-value">{all_time_str}</text>
+    <text x="14" y="34" class="stat-value">{all_time_display}</text>
     <text x="350" y="26" class="stat-label" text-anchor="end">Live Sync</text>
 
     <!-- Metric 2: Primary IDE & OS -->
     <rect x="0" y="48" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
     <text x="14" y="65" class="stat-label">💻 Primary Workstation &amp; Environment</text>
-    <text x="14" y="82" class="stat-sub">Arch Linux | {editor_name}</text>
+    <text x="14" y="82" class="stat-sub">Arch Linux | {editor_display}</text>
 
     <!-- Metric 3: Architectural Focus -->
     <rect x="0" y="96" width="365" height="42" rx="8" fill="#161B22" stroke="#21262D" stroke-width="1" />
     <text x="14" y="113" class="stat-label">🎯 Active Engineering Domain</text>
-    <text x="14" y="130" class="stat-value" fill="#00FF7F">Offline-First Super App &amp; Clean Architecture</text>
+    <text x="14" y="130" class="stat-value">Offline-First Super App &amp; Clean Architecture</text>
   </g>
 
   <!-- Right Column: Stack Breakdown Header -->
@@ -208,7 +206,7 @@ def main():
   {bars_markup}
 
   <!-- Legend Items -->
-  {legend_markup}
+{legend_markup}
 
   <!-- Card Footer -->
   <line x1="25" y1="210" x2="775" y2="210" stroke="#21262D" stroke-width="1" />
@@ -223,7 +221,9 @@ def main():
     with open(out_file, "w", encoding="utf-8") as f:
         f.write(svg_content)
 
-    print(f"✅ Generated {out_file} successfully!")
+    # Validate XML
+    ET.fromstring(svg_content)
+    print(f"✅ Generated and validated {out_file} successfully!")
 
 if __name__ == "__main__":
     main()
