@@ -1,103 +1,47 @@
-<!-- Header Banner -->
+<!-- ========================================================================= -->
+<!--                           ⚡ HEADER BANNER ⚡                              -->
+<!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20my%20Universe!%20🚀&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Nooreldean%20-%20Software%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B26,100:00FF7F&height=260&section=header&text=Welcome%20to%20My%20Terminal!%20⚡&fontSize=46&fontColor=00FF7F&animation=fadeIn&fontAlignY=36&desc=Nooreldean%20—%20Software%20Engineer%20%7C%20Cross-Platform%20%26%20Systems%20Architect&descAlignY=58&descAlign=50&descColor=00E5FF" width="100%" alt="Header Banner" />
 </div>
 
-<!-- Typing SVG Animation -->
+<!-- Dynamic Typing SVG Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;Back-End+Developer;Linux+Enthusiast;Student+%26+Problem+Solver" alt="Typing SVG" />
+  <a href="https://github.com/coach-nooreldean">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=Flutter+%26+Mobile+Systems+Architect;Clean+Architecture+%26+BLoC+Specialist;Offline-First+Engineer+(PowerSync+%2B+Drift);Linux+Power+User+%26+Automation+Crafter;Modern+Full-Stack+%26+Cloud+Builder" alt="Typing Animation" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offline--First%20Systems-00FF7F?style=for-the-badge&logo=flutter&logoColor=black" alt="Focus: Offline-First Systems" />&nbsp;
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%26%20BLoC-00E5FF?style=for-the-badge&logo=dart&logoColor=black" alt="Architecture" />&nbsp;
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20Powerhouse-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />&nbsp;
+  <img src="https://img.shields.io/badge/Tracking-WakaTime%20Active-00FF7F?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+</p>
 
 <br>
 
-<!-- About Me & Profile Graphic Side-by-Side -->
-<table align="center" width="100%">
+<!-- ========================================================================= -->
+<!--                         👨‍💻 ABOUT ME & WORKSPACE                         -->
+<!-- ========================================================================= -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%" valign="top" align="left">
-      <h2>👨‍💻 About Me</h2>
-      <p>👋 Hello! I'm <b>Nooreldean</b>, a passionate software developer specializing in high-performance application development and low-level systems. I thrive on solving complex puzzles and building efficient backends.</p>
+    <td width="60%" valign="top" align="left" style="border: none; padding-right: 15px;">
+      <h3>⚡ About Me</h3>
+      <p>
+        👋 Hey there! I am <b>Nooreldean</b>, a passionate Software Engineer and Mobile & Systems Architect. 
+        I specialize in engineering resilient, high-performance applications with a strong focus on <b>Clean Architecture</b>, 
+        <b>Offline-First sync engines</b>, and lightning-fast developer environments.
+      </p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Mastering <b>C++</b>, data structures, and advanced system architecture.</li>
-        <li>🐧 <b>Environment:</b> Linux is my playground; I write automation scripts, configure shell workflows, and optimize terminal performance.</li>
-        <li>💼 <b>Interests:</b> Distributed systems, memory management, and clean APIs.</li>
-        <li>🌱 <b>Learning:</b> Modern backend engineering patterns and server-side scalability.</li>
+        <li>🚀 <b>Mobile & Cross-Platform:</b> Crafting production-grade Flutter ecosystems, scalable state management with BLoC, and multi-tier caching architectures.</li>
+        <li>🔄 <b>Offline-First Paradigms:</b> Bridging Supabase PostgreSQL, PowerSync cloud synchronization, and local Drift/SQLite storage for 100% offline autonomy.</li>
+        <li>🐧 <b>Linux & Systems Hacker:</b> Arch Linux enthusiast, dotfiles craftsman, building shell automations and high-throughput backend APIs.</li>
+        <li>🎯 <b>Engineering Creed:</b> <i>"Make it work, make it clean, make it fast — and ensure it never breaks offline."</i></li>
       </ul>
     </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Coding Workspace" width="95%" style="border-radius: 12px; border: 2px solid #00FF7F;" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- GitHub Trophies Cabinet -->
-<!-- (Temporarily disabled due to upstream server issues) -->
-
-<!-- GitHub Activity Graph -->
-<h3 align="center">📈 GitHub Contribution Activity</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coach-nooreldean&bg_color=0D1117&color=c9d1d9&line=00FF7F&point=00E5FF&area=true&area_color=0D1117&title_color=00FF7F&hide_border=true&custom_title=Weekly%20Contribution%20Activity" width="100%" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<!-- Categorized Tech Stack Toolbox -->
-<h3 align="center">🛠️ My Tech Toolbox</h3>
-<div align="center">
-  <h4>💻 Languages</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,ts,bash&theme=dark" alt="Languages" />
-  </a>
-  <br><br>
-  
-  <h4>🎨 Frontend & Mobile</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css,tailwind&theme=dark" alt="Frontend" />
-  </a>
-  <br><br>
-  
-  <h4>🗄️ Databases</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=dark" alt="Databases" />
-  </a>
-  <br><br>
-  
-  <h4>🐧 Operating Systems</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint&theme=dark" alt="OS" />
-  </a>
-  <br><br>
-  
-  <h4>⚙️ Developer Tools</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,md&theme=dark" alt="Tools" />
-  </a>
-  <br><br>
-  
-  <h4>☁️ Cloud & Hosting</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,cloudflare,vercel&theme=dark" alt="Cloud" />
-  </a>
-</div>
-
----
-
-<!-- Aligned GitHub Stats Dashboard -->
-<h3 align="center">📊 Developer Analytics Dashboard</h3>
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=2" height="195px" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=2" height="195px" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="55%" alt="Top Languages"/>
+    <td width="40%" valign="middle" align="center" style="border: none;">
+      <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="Coding Terminal Aesthetic" width="100%" style="border-radius: 12px; border: 2px solid #00FF7F; box-shadow: 0 0 15px rgba(0,255,127,0.3);" />
     </td>
   </tr>
 </table>
@@ -106,8 +50,160 @@
 
 ---
 
-<!-- Social Connections Row -->
-<h3 align="center">📬 Let's Connect & Collaborate</h3>
+<!-- ========================================================================= -->
+<!--                    🌟 FEATURED SYSTEMS & HIGHLIGHTS                       -->
+<!-- ========================================================================= -->
+<h3 align="center">💎 Featured Systems & Engineering Highlights</h3>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
+      <h4>📱 <a href="https://github.com/coach-nooreldean" style="color: #00FF7F; text-decoration: none;">Coachdrift Super App & SaaS</a></h4>
+      <p style="color: #c9d1d9; font-size: 14px;">
+        An enterprise-grade offline-first coaching & client multi-tenant SaaS platform built with Flutter.
+      </p>
+      <ul style="color: #8b949e; font-size: 13px;">
+        <li>⚡ <b>Offline-First Engine:</b> PowerSync + Drift (SQLite) synced with Supabase PostgreSQL.</li>
+        <li>🏛️ <b>Architecture:</b> Strict Clean Architecture with BLoC state management & RLS guards.</li>
+        <li>🌐 <b>Fullstack Portal:</b> Super Admin & Analytics dashboard powered by React + Vite + Tailwind.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
+      <h4>⚙️ <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" style="color: #00E5FF; text-decoration: none;">NooreldeanOS & Dotfiles</a></h4>
+      <p style="color: #c9d1d9; font-size: 14px;">
+        A customized, hyper-optimized Arch Linux developer workstation engineered for peak productivity.
+      </p>
+      <ul style="color: #8b949e; font-size: 13px;">
+        <li>🐧 <b>Environment:</b> Tiling window management, bespoke terminal shell scripting, and keybindings.</li>
+        <li>🛠️ <b>Automation:</b> Automated backup hooks, developer CLI tooling, and zero-latency workflow.</li>
+        <li>🔒 <b>Security & Performance:</b> Custom kernel optimizations and minimal memory footprint.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                   ⏳ WAKATIME DEVELOPMENT METRICS                         -->
+<!-- ========================================================================= -->
+<h3 align="center">⏳ Weekly Development Metrics (WakaTime)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/WakaTime-Tracking%20Active-00FF7F?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime Active" />&nbsp;
+  <img src="https://img.shields.io/badge/Auto--Updated-Every%2024%20Hours-00E5FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<!--START_SECTION:waka-->
+```text
+📊 Live WakaTime Development Stats
+Loading latest development metrics via GitHub Actions...
+```
+<!--END_SECTION:waka-->
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                       🛠️ TECH TOOLBOX & ECOSYSTEM                         -->
+<!-- ========================================================================= -->
+<h3 align="center">🛠️ Tech Toolbox & Ecosystem</h3>
+
+<div align="center">
+  <p><b>💻 Languages & Core Runtime</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,ts,js,cpp,python,bash&theme=dark" alt="Languages" />
+  </a>
+  <br><br>
+
+  <p><b>📱 Cross-Platform & Frontend Ecosystem</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend & Mobile" />
+  </a>
+  <br><br>
+
+  <p><b>🔄 Databases, Cloud & Offline Storage</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,firebase,redis&theme=dark" alt="Databases & Cloud" />
+  </a>
+  <br><br>
+
+  <p><b>🐧 Operating Systems & Kernel Workspaces</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,debian,ubuntu&theme=dark" alt="Operating Systems" />
+  </a>
+  <br><br>
+
+  <p><b>⚙️ Developer Tooling & DevOps</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,githubactions,npm,docker&theme=dark" alt="Tools & DevOps" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                    📊 DEVELOPER ANALYTICS & STREAKS                       -->
+<!-- ========================================================================= -->
+<h3 align="center">📊 Developer Analytics & Activity</h3>
+
+<div align="center">
+  <table align="center" width="100%" style="border: none;">
+    <tr>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=2" height="195px" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%" style="border: none;">
+        <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=2" height="195px" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" style="border: none;">
+        <br>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api/top-langs/?username=coach-nooreldean&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&cache_seconds=120&v=2&langs_count=10" width="58%" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Weekly GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coach-nooreldean&bg_color=0D1117&color=c9d1d9&line=00FF7F&point=00E5FF&area=true&area_color=0D1117&title_color=00FF7F&hide_border=true&custom_title=Weekly%20Contribution%20Velocity" width="100%" alt="Contribution Velocity Graph" />
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                       🐍 CONTRIBUTION SNAKE 🐍                            -->
+<!-- ========================================================================= -->
+<div align="center">
+  <details>
+    <summary><b>🐍 Click to Reveal The Matrix Contribution Snake 🐍</b></summary>
+    <br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg" width="85%">
+    </picture>
+  </details>
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================================= -->
+<!--                    📬 CONNECT & COLLABORATE                               -->
+<!-- ========================================================================= -->
+<h3 align="center">📬 Connect & Collaborate</h3>
 <div align="center">
   <a href="https://t.me/Nooreldean216" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -123,40 +219,28 @@
   </a>
 </div>
 
----
+<br>
 
-<!-- Contribution Snake Animation -->
+<!-- Profile Views Badge -->
 <div align="center">
-  <details>
-    <summary><b>🐍 Click to reveal The Contribution Snake 🐍</b></summary>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg" width="80%">
-    </picture>
-  </details>
+  <img src="https://komarev.com/ghpvc/?username=coach-nooreldean&label=Terminal%20Visits&color=00FF7F&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=coach-nooreldean&label=Profile%20views&color=00FF7F&style=flat" alt="Profile Views" />
-</div>
-
-<br>
-
-<!-- Footer Quote & Wave -->
+<!-- ========================================================================= -->
+<!--                              FOOTER                                       -->
+<!-- ========================================================================= -->
 <div align="center">
   <table align="center" style="border: none;">
     <tr>
-      <td align="center" style="border: none;">
-        <i>"Talk is cheap. Show me the code."</i> — <b>Linus Torvalds</b>
+      <td align="center" style="border: none; color: #8b949e;">
+        <i>"Simplicity is prerequisite for reliability. Talk is cheap, build what scales."</i>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0D1117&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
