@@ -58,25 +58,25 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
-      <h4>📱 <a href="https://github.com/coach-nooreldean" style="color: #00FF7F; text-decoration: none;">Coachdrift Super App & SaaS</a></h4>
+      <h4>🕌 <a href="https://github.com/coach-nooreldean/arkan" style="color: #00FF7F; text-decoration: none;">Arkan (أركان) — Islamic Super App</a></h4>
       <p style="color: #c9d1d9; font-size: 14px;">
-        An enterprise-grade offline-first coaching & client multi-tenant SaaS platform built with Flutter.
+        An all-in-one modern Islamic companion app for Prayer Times, Holy Quran, Azkar & worship tracking.
       </p>
       <ul style="color: #8b949e; font-size: 13px;">
-        <li>⚡ <b>Offline-First Engine:</b> PowerSync + Drift (SQLite) synced with Supabase PostgreSQL.</li>
-        <li>🏛️ <b>Architecture:</b> Strict Clean Architecture with BLoC state management & RLS guards.</li>
-        <li>🌐 <b>Fullstack Portal:</b> Super Admin & Analytics dashboard powered by React + Vite + Tailwind.</li>
+        <li>🏛️ <b>Clean Architecture:</b> Strict layer separation (Domain, Data, Presentation) with BLoC & fpdart.</li>
+        <li>📖 <b>Core Modules:</b> Precision GPS prayer times engine, high-res Madani Quran reader, and daily Azkar.</li>
+        <li>⚡ <b>Multi-Platform & Offline:</b> 100% offline-first local caching, declarative routing, and 60fps reactive UI.</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="padding: 16px; background-color: #0D1117; border: 1px solid #30363d; border-radius: 8px;">
-      <h4>⚙️ <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" style="color: #00E5FF; text-decoration: none;">NooreldeanOS & Dotfiles</a></h4>
+      <h4>⚙️ <a href="https://github.com/coach-nooreldean/NooreldeanOS-Dotfiles" style="color: #00E5FF; text-decoration: none;">NooreldeanOS — Arch Linux & Hyprland</a></h4>
       <p style="color: #c9d1d9; font-size: 14px;">
         A customized, hyper-optimized Arch Linux developer workstation engineered for peak productivity.
       </p>
       <ul style="color: #8b949e; font-size: 13px;">
-        <li>🐧 <b>Environment:</b> Tiling window management, bespoke terminal shell scripting, and keybindings.</li>
-        <li>🛠️ <b>Automation:</b> Automated backup hooks, developer CLI tooling, and zero-latency workflow.</li>
-        <li>🔒 <b>Security & Performance:</b> Custom kernel optimizations and minimal memory footprint.</li>
+        <li>🪟 <b>Hyprland & Wayland:</b> Fluid dynamic tiling window management, Kitty terminal, and custom keybindings.</li>
+        <li>🛠️ <b>Shell & Automation:</b> Custom shell scripts, automated dotfiles deployment, and zero-latency workflow.</li>
+        <li>⚡ <b>Peak Performance:</b> Highly curated minimal memory footprint, Neovim dev environment, and Obsidian integration.</li>
       </ul>
     </td>
   </tr>
