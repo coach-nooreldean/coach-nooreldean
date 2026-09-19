@@ -2,7 +2,7 @@
 <!--                           ⚡ HEADER BANNER ⚡                              -->
 <!-- ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B26,100:00FF7F&height=260&section=header&text=Welcome%20to%20My%20Terminal!%20⚡&fontSize=46&fontColor=00FF7F&animation=fadeIn&fontAlignY=36&desc=Nooreldean%20—%20Software%20Engineer%20%7C%20Cross-Platform%20%26%20Systems%20Architect&descAlignY=58&descAlign=50&descColor=00E5FF" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B26,100:00FF7F&height=250&section=header&text=Welcome%20to%20My%20Terminal!&fontSize=42&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Nooreldean%20-%20Software%20Engineer%20and%20Systems%20Architect&descAlignY=60&descAlign=50&descColor=00E5FF" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Dynamic Typing SVG Animation -->
@@ -221,28 +221,16 @@ No Activity Tracked This Week
 
 <br>
 
-<!-- Weekly GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coach-nooreldean&bg_color=0D1117&color=c9d1d9&line=00FF7F&point=00E5FF&area=true&area_color=0D1117&title_color=00FF7F&hide_border=true&custom_title=Weekly%20Contribution%20Velocity" width="100%" alt="Contribution Velocity Graph" />
-</div>
-
-<br>
-
----
-
 <!-- ========================================================================= -->
-<!--                       🐍 CONTRIBUTION SNAKE 🐍                            -->
+<!--                       🐍 CONTRIBUTION VELOCITY 🐍                         -->
 <!-- ========================================================================= -->
+<h3 align="center">🐍 GitHub Contribution Velocity & Matrix Snake</h3>
 <div align="center">
-  <details>
-    <summary><b>🐍 Click to Reveal The Matrix Contribution Snake 🐍</b></summary>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg" width="85%">
-    </picture>
-  </details>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution velocity snake animation" src="https://raw.githubusercontent.com/coach-nooreldean/coach-nooreldean/output/github-contribution-grid-snake.svg" width="95%">
+  </picture>
 </div>
 
 <br>
