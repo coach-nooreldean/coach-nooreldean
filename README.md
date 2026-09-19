@@ -13,10 +13,10 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offline--First%20Systems-00FF7F?style=for-the-badge&logo=flutter&logoColor=black" alt="Focus: Offline-First Systems" />&nbsp;
-  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%26%20BLoC-00E5FF?style=for-the-badge&logo=dart&logoColor=black" alt="Architecture" />&nbsp;
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20Powerhouse-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />&nbsp;
-  <img src="https://img.shields.io/badge/Tracking-WakaTime%20Active-00FF7F?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+  <img src="https://img.shields.io/badge/Focus-Offline--First%20Systems-161B22?style=for-the-badge&logo=flutter&logoColor=00FF7F&labelColor=003B26" alt="Focus: Offline-First Systems" />&nbsp;
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%26%20BLoC-161B22?style=for-the-badge&logo=dart&logoColor=00E5FF&labelColor=00454E" alt="Architecture" />&nbsp;
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20Powerhouse-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=0B3954" alt="Arch Linux" />&nbsp;
+  <img src="https://img.shields.io/badge/Tracking-WakaTime%20Active-161B22?style=for-the-badge&logo=wakatime&logoColor=00FF7F&labelColor=003B26" alt="WakaTime" />
 </p>
 
 <br>
