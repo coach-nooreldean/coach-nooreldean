@@ -135,7 +135,7 @@
   <table align="center" width="100%" style="border: none;">
     <tr>
       <td align="center" width="50%" valign="top" style="border: none;">
-        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&cache_seconds=120&v=4" height="195px" alt="GitHub Stats"/>
+        <img src="https://github-stats-extended-frontend-two-gamma.vercel.app/api?username=coach-nooreldean&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF7F&icon_color=00E5FF&text_color=c9d1d9&hide_border=true&rank=A%2B&cache_seconds=120&v=5" height="195px" alt="GitHub Stats"/>
       </td>
       <td align="center" width="50%" valign="top" style="border: none;">
         <img src="https://streak-stats.demolab.com/?user=coach-nooreldean&theme=dark&background=0D1117&ring=00FF7F&fire=00E5FF&currStreakLabel=00E5FF&currStreakNum=00FF7F&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true&v=4" height="195px" alt="GitHub Streak"/>
