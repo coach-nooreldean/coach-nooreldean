@@ -90,27 +90,18 @@
           data-testid="lang-progress"
           x="0.0"
           y="0"
-          width="136.1"
+          width="163.9"
           height="8"
           fill="#858585"
         />
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="136.1"
+          x="163.9"
           y="0"
-          width="68.62"
+          width="86.1"
           height="8"
           fill="#292929"
-        />
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="204.72"
-          y="0"
-          width="45.27"
-          height="8"
-          fill="#f1e05a"
         />
 
       <g transform="translate(0, 25)">
@@ -119,15 +110,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Other 54.4% (1 hr 55 mins)
-      </text>
-    </g>
-  </g>
-<g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        JavaScript 18.1% (38 mins)
+        Other 65.6% (1 hr 50 mins)
       </text>
     </g>
   </g>
@@ -137,15 +120,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        JSON 27.4% (58 mins)
-      </text>
-    </g>
-  </g>
-<g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#00E5FF" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Tracked: 3 hrs 32 mins
+        JSON 34.4% (58 mins)
       </text>
     </g>
   </g>
