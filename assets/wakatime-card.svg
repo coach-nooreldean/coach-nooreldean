@@ -90,25 +90,25 @@
           data-testid="lang-progress"
           x="0.0"
           y="0"
-          width="239.2"
+          width="236.55"
           height="8"
           fill="#858585"
         />
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.2"
+          x="236.55"
           y="0"
-          width="9.18"
+          width="11.43"
           height="8"
           fill="#083fa1"
         />
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.38"
+          x="247.98000000000002"
           y="0"
-          width="1.62"
+          width="2.02"
           height="8"
           fill="#cb171e"
         />
@@ -119,7 +119,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Other 95.7% (20 hrs 27 mins)
+        Other 94.6% (16 hrs 15 mins)
       </text>
     </g>
   </g>
@@ -127,7 +127,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        YAML 0.7% (8 mins)
+        YAML 0.8% (8 mins)
       </text>
     </g>
   </g>
@@ -137,7 +137,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Markdown 3.7% (47 mins)
+        Markdown 4.6% (47 mins)
       </text>
     </g>
   </g>
@@ -145,7 +145,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#00E5FF" />
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Tracked: 21 hrs 22 mins
+        Tracked: 17 hrs 10 mins
       </text>
     </g>
   </g>
